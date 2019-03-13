@@ -1,0 +1,26 @@
+var classsolarfox =
+[
+    [ "solarfox", "classsolarfox.html#a103b92eb685e623e19f4801b253e249a", null ],
+    [ "~solarfox", "classsolarfox.html#ac9db386f4f5c660411df1808a0904a43", null ],
+    [ "action", "classsolarfox.html#a01d97c5df64680bdb82ba2b06e87ae9e", null ],
+    [ "check_pos", "classsolarfox.html#a9406fe341b5a325a3ffcd0eb3137407e", null ],
+    [ "checkCollision", "classsolarfox.html#a6b504344dd12a73415d44398ff707e8d", null ],
+    [ "checkDeath", "classsolarfox.html#ab1f2166fe5607be51d4570a38799e27b", null ],
+    [ "clearOutside", "classsolarfox.html#a1e4515f7e21deedf0e78162e29c8af48", null ],
+    [ "game", "classsolarfox.html#a6f224bd7f2b60bd8adf1791054d00e93", null ],
+    [ "generateContent", "classsolarfox.html#aabce5ca313f8bcdbd41a7903ed9ea738", null ],
+    [ "genMap", "classsolarfox.html#a270a5f4d3f55d8b33f91434920d3a86b", null ],
+    [ "getFifth", "classsolarfox.html#aa6ea976c2b26ac2bf1cccf72af59c769", null ],
+    [ "getGameOver", "classsolarfox.html#a0104f3fe7bbcaf7510a152fbe3e7e27b", null ],
+    [ "getPlayer", "classsolarfox.html#a395d25edb3da264e01ca7798e80357ab", null ],
+    [ "getQuaternary", "classsolarfox.html#a7d2cf72fd374768d04e4dc184da4e406", null ],
+    [ "getSecondary", "classsolarfox.html#a5b7e761a3135ceab166d44020a8951ab", null ],
+    [ "getTertiary", "classsolarfox.html#af9fcc28b586985bc8ea47f6036a5801d", null ],
+    [ "lasersForward", "classsolarfox.html#ad246c43f6d2dee67255072ba2be89e1b", null ],
+    [ "launchMissile", "classsolarfox.html#ab6504ee8365eea828d20e5f5d0e699ec", null ],
+    [ "mapCreator", "classsolarfox.html#ac4694604f7cbeccd29c5bbcc0b277cde", null ],
+    [ "move_player", "classsolarfox.html#ad762204619d4517cf2d5ca788eeaedb5", null ],
+    [ "pickPowerup", "classsolarfox.html#a8a5ab035998af2e54bbf604c3c78bc3f", null ],
+    [ "shoot", "classsolarfox.html#ad324290ede25c99cadb7a62310648ef4", null ],
+    [ "spawner", "classsolarfox.html#a2612b957b4bc234ec6aa2132699fb50f", null ]
+];

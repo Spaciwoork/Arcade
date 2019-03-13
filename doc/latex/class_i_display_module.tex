@@ -1,0 +1,70 @@
+\section{I\+Display\+Module Class Reference}
+\label{class_i_display_module}\index{I\+Display\+Module@{I\+Display\+Module}}
+Inheritance diagram for I\+Display\+Module\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_i_display_module}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{class_i_display_module_a995de9dca9660bfdcaa5307f473e672c}} 
+virtual void {\bfseries Create\+Window} ()=0
+\item 
+\mbox{\label{class_i_display_module_a95c05ec4c3c59321c67f7b3a9d438dcc}} 
+virtual int {\bfseries Refresh} (int value)=0
+\item 
+\mbox{\label{class_i_display_module_a9952028053323ae0c4841991bc78cf29}} 
+virtual int {\bfseries draw\+\_\+map} (map$<$ string, int $>$ mapper)=0
+\item 
+\mbox{\label{class_i_display_module_ab5d4dce7e501cecaedd6432dd3d82910}} 
+virtual void {\bfseries draw\+\_\+content} (\textbf{ t\+\_\+draw\+\_\+data} $\ast$)=0
+\item 
+\mbox{\label{class_i_display_module_abed5ec651d2c12334c33dff062184dee}} 
+virtual int {\bfseries moove} ()=0
+\item 
+\mbox{\label{class_i_display_module_a1131abc4609bd965e5d598da4d572532}} 
+virtual void {\bfseries setnewpos} (\textbf{ t\+\_\+draw\+\_\+data} $\ast$)=0
+\item 
+\mbox{\label{class_i_display_module_a9e7a55e19b6b5da5f403ec206871f7d8}} 
+virtual float {\bfseries get\+Width} (void)=0
+\item 
+\mbox{\label{class_i_display_module_ad4c80704672cf4217fa144fb0d905e16}} 
+virtual float {\bfseries get\+Height} (void)=0
+\item 
+\mbox{\label{class_i_display_module_acfe514ad0bc31d00a9e092fe8d47324b}} 
+virtual void {\bfseries create\+\_\+menu} ()=0
+\item 
+\mbox{\label{class_i_display_module_a7b730b2a68c4f8d21b79a7788b169468}} 
+virtual int {\bfseries select\+\_\+game} (int)=0
+\item 
+\mbox{\label{class_i_display_module_a8ed6fec6d9c16f0444b7cdadad0f1309}} 
+virtual void {\bfseries generate\+\_\+ennemy} (\textbf{ t\+\_\+draw\+\_\+data} $\ast$)=0
+\item 
+\mbox{\label{class_i_display_module_ad4ec94dc50603d37333d704a3488cfbb}} 
+virtual void {\bfseries generate\+\_\+laser} (\textbf{ t\+\_\+draw\+\_\+data} $\ast$)=0
+\item 
+\mbox{\label{class_i_display_module_afa2cba3aa5b542fe047525ff970f0847}} 
+virtual void {\bfseries generate\+\_\+pow} (\textbf{ t\+\_\+draw\+\_\+data} $\ast$content)=0
+\end{DoxyCompactItemize}
+\subsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{class_i_display_module_a61ab3e9d06d2f2ea4165e66cab65acd8}} 
+\textbf{ player} $\ast$ {\bfseries p}
+\item 
+\mbox{\label{class_i_display_module_a87602603ec66bb5e11bfded7d66f8189}} 
+vector$<$ \textbf{ player} $\ast$ $>$ $\ast$ {\bfseries secondary}
+\item 
+\mbox{\label{class_i_display_module_a45dc09e165d015ef164ba1a71823b4f1}} 
+vector$<$ \textbf{ player} $\ast$ $>$ $\ast$ {\bfseries tertiary}
+\item 
+\mbox{\label{class_i_display_module_acbb3def987e9bcb4a1db2c0830bae976}} 
+vector$<$ pair$<$ int, int $>$ $>$ $\ast$ {\bfseries quaternary}
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+include/I\+Display\+Module.\+hpp\end{DoxyCompactItemize}
